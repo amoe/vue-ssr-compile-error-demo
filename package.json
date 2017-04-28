@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "vue-server-renderer": "^2.3.0",
     "webpack": "^2.4.1"
   }
 }
